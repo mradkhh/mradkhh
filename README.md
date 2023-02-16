@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adkhambek</h1>
 <h3 align="center">UI Engineer at Anor LLC</h3>
 
-- 🌱 I’m currently learning **Angular, UX Design**
+- 🌱 I’m currently learning **Angular, UX knowledges**
 
 - 👨‍💻 All of my projects are available at [mradkhh.webflow.io](mradkhh.webflow.io)
 
