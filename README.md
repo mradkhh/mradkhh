@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adkhambek</h1>
 <h3 align="center">UI Engineer at Anor LLC</h3>
 
+- I'm React Developer with 1+ experience
+
 - 🌱 I’m currently learning **Angular framework, UX knowledges**
 
 - 👨‍💻 All of my projects are available at [mradkhh.webflow.io](mradkhh.webflow.io)
