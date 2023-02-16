@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adkhambek</h1>
-<h3 align="center">UI Engineer in Anor LLC</h3>
+<h3 align="center">UI Engineer at Anor LLC</h3>
 
 - 🌱 I’m currently learning **Angular, UX Design**
 
