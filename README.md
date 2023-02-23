@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular framework, UX knowledges**
 
-- 👨‍💻 All of my projects are available at [mradkhh.webflow.io](mradkhh.webflow.io)
+- 👨‍💻 All of my projects are available at [mradkhh.vercel.app](mradkhh.webflow.io)
 
 - 📝 I regularly write articles on [medium.com/@mradkhh](medium.com/@mradkhh)
 
