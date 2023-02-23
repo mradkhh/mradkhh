@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Angular framework, UX knowledges**
 
-- 👨‍💻 All of my projects are available at [mradkhh.vercel.app]
+- 👨‍💻 All of my projects are available at mradkhh.vercel.app
 
-- 📝 I regularly write articles on [medium.com/@mradkhh]
+- 📝 I regularly write articles on medium.com/@mradkhh
 
 - 💬 Ask me about **React Js**
 
