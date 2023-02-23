@@ -5,12 +5,6 @@
 
 - 🌱 I’m currently learning **Angular framework, UX knowledges**
 
-- 👨‍💻 All of my projects are available at (mradkhh.vercel.app)
-
-- 📝 I regularly write articles on (medium.com/@mradkhh)
-
-- 💬 Ask me about **React Js**
-
 - 📫 How to reach me **adkhambekyusupov@gmail.com**
 
 ### Blogs posts
