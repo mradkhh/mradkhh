@@ -3,7 +3,7 @@
 
 - I'm React Developer with 1+ experience
 
-- 🌱 I’m currently learning **Angular framework, UX knowledges**
+- 🌱 I’m currently learning ** UX knowledges**
 
 - 📫 How to reach me **adkhambekyusupov@gmail.com**
 
