@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adkhambek</h1>
+<h1 align="center">Hi 👋, I'm Adik</h1>
 <h3 align="center">Frontend Engineer | ReactJs, NextJs, TypeScript </h3>
 
 - I'm React Developer with 1+ experience
