@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adkhh</h1>
-<h3 align="center">Frontend Engineer | ReactJs, NextJs, TypeScript </h3>
-
-- I'm React Developer with 2+ experience
-
-- 🌱 I’m currently learning ** UX knowledges**
+<h1 align="center">Hi 👋, I'm Adhambek</h1>
+<h3 align="center">UI/UX Engineer | ReactJs, NextJs, TypeScript, Figma </h3>
 
 - 📫 How to reach me **adkhambekyusupov@gmail.com**
 
